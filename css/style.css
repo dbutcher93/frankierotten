@@ -1,3 +1,7 @@
+body{
+	background-color: #161616;
+}
+
 .navbar {
 	background-color: #0e5d43;
 }
@@ -38,7 +42,7 @@
 	width: 1000px;
 }
 
-.skate-carousel {
+.portfolio-carousel {
 	background: url(../images/wp.jpg);
 	width: 100%;
 }
