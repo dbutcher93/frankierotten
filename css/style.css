@@ -1,0 +1,44 @@
+.navbar {
+	background-color: #0e5d43;
+}
+
+.navbar li a {
+	color: #fff !important;
+}
+
+.navbar li a:hover {
+	background-color: #a2db83;
+	color: #fff !important;
+}
+
+.container1 {
+	text-align: center;
+	background-color: #222222;
+}
+
+.container1 img {
+	margin-top: 65px;
+}
+
+.container2 {
+	background-color: #0e5d43;
+	text-align: center;
+	color: #fff;
+	top: -20px;
+	padding: 15px;
+	height: 300px;
+}
+
+.btn-default {
+	background-color: #a2db83; 
+}
+
+#carousel-1 {
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.skate-carousel {
+	background: url(../images/wp.jpg);
+	width: 100%;
+}
